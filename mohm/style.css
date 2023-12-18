@@ -138,7 +138,7 @@ nav a:hover{
 
 @media screen and (max-width: 600px){
     
-body{
+.body{
     background: url(image/wallpaperflare.com_wallpaper\ \(3\).jpg) fixed;
 }
 
